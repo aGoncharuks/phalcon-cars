@@ -23,8 +23,8 @@ $di->set('db', function () {
 		array(
 			"host"			=>		"localhost",
 			"username"		=>		"root",
-			"password"		=>		"toor",
-			"dbname"		=>		"phalcon_api"
+			"password"		=>		"",
+			"dbname"		=>		"phalcon_cars"
 		)
 	);
 });
